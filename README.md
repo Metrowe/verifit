@@ -3,7 +3,7 @@ A Rest API using Spring Boot, Swagger and Docker. For demonstration purposes.
 
 ## Prerequisites
 - Install Docker Desktop (or any alternative docker manager) [https://docs.docker.com/desktop/install/](https://docs.docker.com/desktop/install/)
-- git clone [https://github.com/????????????](https://github.com/???????????)
+- git clone [https://github.com/Metrowe/verifit](https://github.com/Metrowe/verifit)
 
 ## Run
 In command line navigate to the cloned git repo and run the following command:
